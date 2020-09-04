@@ -1,0 +1,10 @@
+Thread.sleep(milli seconds)
+
+implicitWait
+	driver.manage().timeouts().implicitlyWait(5,TimeUnit.SECONDS); 
+
+explicitwait
+	WebDriverWait mywait=new WebDriverWait(driver,10000);
+
+	mywait.until(ExpectedConditions.visibilityOfElementLocated(By.name("userName")));
+	

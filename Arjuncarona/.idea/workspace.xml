@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2060a36-463d-4f3d-b995-88e18f61c3fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AddCostumer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Configuration/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/addNewCustomer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommersfile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BDD_Cucumber/Features/myAccount-login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/commers/utilities/ReadConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/commers/utilities/Reporting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/commers/utilities/XLUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/TestData/LoginData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/projectObjects/AddCostumerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/projectObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommers/project/Testcases/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommers/project/Testcases/BaseClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommers/project/Testcases/TC1_login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommers/project/Testcases/TC2_DDT_Excel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommers/project/Testcases/TC_AddCustomerTest_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listenersreport/Listenerrport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listenersreport/Report2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listenersreport/listnerlogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/matrixomini/pageobjects/ominivox_pageobjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/matrixomini/testcases/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/matrixomini/testcases/TC1_Ominivox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/matrixomini/utilities/ReadConfigOminiVox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selinium/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.11.10.20.39..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.11.10.22.51..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.11.11.56.45..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.11.12.17.44..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.11.12.27.42..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.11.12.31.27..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.11.12.45.17..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.06.16.36..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.06.32.49..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.08.29.22..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.10.54.12..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.10.58.35..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.11.00.55..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.11.03.59..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.11.07.37..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.11.09.28..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2020.04.14.11.11.22..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/mysecondreport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/koran.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/koran.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final exam/final exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/final exam/final exam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_commands" beforeDir="false" afterPath="$PROJECT_DIR$/git_commands" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/application.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjectModels/LoginPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjectModels/LoginPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/listenersreport/ListenerReport.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/listenersreport/ListenerReport.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TestNG2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestNG2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CrossBrowser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CrossBrowser.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestNG/CrossBrowserTestng.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestNG/CrossBrowserTestng.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestNG/FirstTestNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestNG/FirstTestNG.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="ExportTestResults" exportFormat="Xml" outputFolder="$USER_HOME$/Desktop/java/intelijIDEA REport" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zd6AkslHCufzrkyvAgEFsknTSi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/nopcommerce/projectObjects" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/test/java/PageObjectModels/LoginPageObject.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\koran\IdeaProjects\Arjuncarona" />
+      <recent name="C:\Users\koran\IdeaProjects\Arjuncarona\src\test\java\com\nopcommerce\TestData" />
+      <recent name="C:\Users\koran\IdeaProjects\Arjuncarona\src\test\java\ListenersReport" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\koran\IdeaProjects\Arjuncarona\src\test\java\com\nopcommerce\projectObjects" />
+      <recent name="C:\Users\koran\IdeaProjects\Arjuncarona\src\test\java\com\commers\utilities" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Log4demo" />
+      <recent name="TestNG" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/koran/IdeaProjects/Arjuncarona/AddCostumer.xml">
+    <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selinium.DemoTest" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selinium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelSheet1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumWEBDriver.ExcelSheet1" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumWEBDriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firsttest (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumWEBDriver.ExcelSheet1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/target/test-classes/seleniumWEBDriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumWEBDriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/koran/IdeaProjects/Arjuncarona/AddCostumer.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/AddCostumer.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/koran/IdeaProjects/Arjuncarona/ecommersfile.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ecommersfile.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC1_Ominivox.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="matrixomini.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="matrixomini.testcases" />
+      <option name="MAIN_CLASS_NAME" value="matrixomini.testcases.TC1_Ominivox" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC1_login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommers.project.Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommers.project.Testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommers.project.Testcases.TC1_login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC1_login.EditCostumerDetails1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommers.project.Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommers.project.Testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommers.project.Testcases.TC1_login" />
+      <option name="METHOD_NAME" value="EditCostumerDetails1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ExcelSheet1" />
+      <item itemvalue="Application.firsttest (1)" />
+      <item itemvalue="TestNG.TC1_login" />
+      <item itemvalue="Application.DemoTest" />
+      <item itemvalue="TestNG.TC1_login.EditCostumerDetails1" />
+      <item itemvalue="TestNG.C:/Users/koran/IdeaProjects/Arjuncarona/AddCostumer.xml" />
+      <item itemvalue="TestNG.C:/Users/koran/IdeaProjects/Arjuncarona/ecommersfile.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/koran/IdeaProjects/Arjuncarona/AddCostumer.xml" />
+        <item itemvalue="TestNG.TC1_login" />
+        <item itemvalue="TestNG.C:/Users/koran/IdeaProjects/Arjuncarona/ecommersfile.xml" />
+        <item itemvalue="TestNG.TC1_login.EditCostumerDetails1" />
+        <item itemvalue="Application.DemoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2060a36-463d-4f3d-b995-88e18f61c3fe" name="Default Changelist" comment="" />
+      <created>1585156482361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585156482361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="60" key="#CrossBrowserTestng" timestamp="1585623986634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="60" key="#CrossBrowserTestng/0.0.1536.824@0.0.1536.824" timestamp="1585623986634" />
+    <state x="477" y="60" key="#FirstTestNG" timestamp="1585582741950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="60" key="#FirstTestNG/0.0.1536.824@0.0.1536.824" timestamp="1585582741950" />
+    <state x="361" y="88" key="#HTTP_Proxy" timestamp="1585503549439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="88" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1585503549439" />
+    <state x="361" y="72" key="#Notifications" timestamp="1586414987500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1586414987500" />
+    <state x="361" y="72" key="#Project_Structure" timestamp="1585157098297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585157098297" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586388334574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586388334574" />
+    <state x="6" y="374" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586887651450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="6" y="374" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1586887651450" />
+    <state x="514" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586970877555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586970877555" />
+    <state x="407" y="101" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1586388845794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="101" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586388845794" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1586739507073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586739507073" />
+    <state x="499" y="189" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585229262151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="189" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1585229262151" />
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585284229008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1585284229008" />
+    <state x="503" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585184344490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1585184344490" />
+    <state x="599" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585777393668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1585777393667" />
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585578968353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1585578968353" />
+    <state x="473" y="97" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1585230966640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="97" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585230966640" />
+    <state x="415" y="328" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586969761216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="415" y="328" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1586969761216" />
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585284049893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585284049893" />
+    <state x="566" y="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586557945248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1586557945248" />
+    <state x="485" y="72" key="#firsttest_(1)" timestamp="1585186732767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="72" key="#firsttest_(1)/0.0.1536.824@0.0.1536.824" timestamp="1585186732767" />
+    <state x="155" y="58" width="1350" height="638" maximized="true" key="DiffContextDialog" timestamp="1585806530133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="155" y="58" width="1350" height="638" maximized="true" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1585806530133" />
+    <state x="600" y="159" key="FileChooserDialogImpl" timestamp="1586623467834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="600" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586623467834" />
+    <state width="1483" height="292" key="GridCell.Tab.0.bottom" timestamp="1586970904633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1586665179790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1586665179790" />
+    <state width="1483" height="292" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586970904633" />
+    <state width="1483" height="292" key="GridCell.Tab.0.center" timestamp="1586970904633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1586665179789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.center.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1586665179789" />
+    <state width="1483" height="292" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586970904633" />
+    <state width="1483" height="292" key="GridCell.Tab.0.left" timestamp="1586970904633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1586665179789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.left.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1586665179789" />
+    <state width="1483" height="292" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586970904633" />
+    <state width="1483" height="292" key="GridCell.Tab.0.right" timestamp="1586970904633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1586665179789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.right.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1586665179789" />
+    <state width="1483" height="292" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586970904633" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1586665486437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586665486437" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1586665486437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586665486437" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1586665486437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586665486437" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1586665486437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586665486437" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1585793228293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585793228293" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1586665643990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586665643990" />
+    <state width="451" height="446" key="SwitcherDM" timestamp="1586040853538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="451" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1586040853538" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585186914840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1585186914840" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586665545418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586665545418" />
+    <state x="341" y="148" width="854" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586559749200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="148" width="854" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1586559749200" />
+    <state x="594" y="240" width="348" height="363" key="export.test.results" timestamp="1586185364652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="594" y="240" width="348" height="363" key="export.test.results/0.0.1536.824@0.0.1536.824" timestamp="1586185364652" />
+    <state x="328" y="0" key="new project wizard" timestamp="1585768667214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="328" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585768667214" />
+    <state x="427" y="204" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586665325121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="427" y="204" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1586665325121" />
+    <state x="475" y="42" key="refactoring.ChangeSignatureDialog" timestamp="1585231108550">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="42" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585231108550" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585681329631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585681329631" />
+    <state x="422" y="121" width="840" height="678" key="search.everywhere.popup" timestamp="1586716541592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="422" y="121" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586716541592" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Desktop/java/selinium/Framework/original (27)/Part6-Adding DataDrivenTestcase/testCases/TC_LoginDDT_002.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Arjuncarona$EXCELWEBDRIVER.ic" NAME="EXCELWEBDRIVER Coverage Results" MODIFIED="1585283784650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>seleniumWEBDriver.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Arjuncarona$FirstTestNG.ic" NAME="FirstTestNG Coverage Results" MODIFIED="1585583000722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>TestNG.*</FILTER>
+    </SUITE>
+  </component>
+</project>

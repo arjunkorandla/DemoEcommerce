@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ecommers">
+    <listeners>
+        <listener class-name="com.commers.utilities.Reporting"/>
+    </listeners>
+    <test name="frameorktest">
+        <classes>
+            <class name="com.nopcommers.project.Testcases.TC1_login"/>
+            <class name="matrixomini.testcases.TC1_Ominivox"/>
+            <class name="com.nopcommers.project.Testcases.TC2_DDT_Excel"/>
+        </classes>
+        
+
+
+        
+    </test>
+</suite>

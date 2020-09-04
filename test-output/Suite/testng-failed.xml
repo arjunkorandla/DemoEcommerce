@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="ChromeTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.nopcommers.project.Testcases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="addNewCustomer"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.nopcommers.project.Testcases.TC_AddCustomerTest_003 -->
+      <class name="com.nopcommers.project.Testcases.TC_Catalog">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="catalogProducts"/>
+        </methods>
+      </class> <!-- com.nopcommers.project.Testcases.TC_Catalog -->
+      <class name="com.nopcommers.project.Testcases.TC1_login">
+        <methods>
+          <include name="addCustomers"/>
+          <include name="titleHomepage"/>
+          <include name="searchByLastName"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="EditCostumerDetails1"/>
+          <include name="searchByEmail"/>
+          <include name="searchByFirstName"/>
+        </methods>
+      </class> <!-- com.nopcommers.project.Testcases.TC1_login -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+  <test thread-count="5" name="firefoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.nopcommers.project.Testcases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="addNewCustomer"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.nopcommers.project.Testcases.TC_AddCustomerTest_003 -->
+      <class name="com.nopcommers.project.Testcases.TC_Catalog">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="catalogProducts"/>
+        </methods>
+      </class> <!-- com.nopcommers.project.Testcases.TC_Catalog -->
+      <class name="com.nopcommers.project.Testcases.TC1_login">
+        <methods>
+          <include name="addCustomers"/>
+          <include name="titleHomepage"/>
+          <include name="searchByLastName"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="EditCostumerDetails1"/>
+          <include name="searchByEmail"/>
+          <include name="searchByFirstName"/>
+        </methods>
+      </class> <!-- com.nopcommers.project.Testcases.TC1_login -->
+    </classes>
+  </test> <!-- firefoxTest(failed) -->
+  <test thread-count="5" name="ieTest(failed)">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="com.nopcommers.project.Testcases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="addNewCustomer"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.nopcommers.project.Testcases.TC_AddCustomerTest_003 -->
+      <class name="com.nopcommers.project.Testcases.TC_Catalog">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="catalogProducts"/>
+        </methods>
+      </class> <!-- com.nopcommers.project.Testcases.TC_Catalog -->
+      <class name="com.nopcommers.project.Testcases.TC1_login">
+        <methods>
+          <include name="addCustomers"/>
+          <include name="titleHomepage"/>
+          <include name="searchByLastName"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="EditCostumerDetails1"/>
+          <include name="searchByEmail"/>
+          <include name="searchByFirstName"/>
+        </methods>
+      </class> <!-- com.nopcommers.project.Testcases.TC1_login -->
+    </classes>
+  </test> <!-- ieTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
