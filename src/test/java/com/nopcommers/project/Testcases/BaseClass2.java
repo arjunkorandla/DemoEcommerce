@@ -36,8 +36,7 @@ public class BaseClass2 {
     public void setup()throws AWTException
     {
     	
-        WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
+       
     	
     	
         logger = Logger.getLogger("nopCommerce2");
